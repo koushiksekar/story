@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 Hiiii. bhihij knkjo bhihx
 
-This was the sample alien pot
 
+
+=======
+This was the sample alien pot and I love it 
+>>>>>>> alien-me
